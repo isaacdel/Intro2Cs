@@ -1,0 +1,36 @@
+isaacdel
+204893481
+isaac delarosa
+
+
+==============================
+== README for Ex4:The Mandelbrot set
+==============================
+
+==================
+= Description: =
+==================
+
+java classes:
+RGBColor: represents a pixel (in Red ,Green and blue)
+Complex: Complex numbers and basic operations on them
+TestRGBColor: tests the RGBColor class
+TestComplex: test the Complex class
+
+=============================
+= List of submitted files: =
+=============================
+
+README This file
+RGBColor.java Contains the RGBColor class.
+Complex.java Contains the Complex class.
+TestRGBColor.java Contains the RGBColor testing program.
+TestComplex.java Contains the RGBColor Complex program.
+
+
+
+======================
+= Special Comments =
+======================
+
+ 

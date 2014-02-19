@@ -1,0 +1,39 @@
+roee168					isaacdel
+200243251	            		204893481
+Roee Belkin		       		 Isaac Delarosa
+
+I discussed the exercise with:
+
+=============================
+=  README for ex9: Space Wars  =
+=============================
+
+
+usage: intro.ex9.* , java.util.image
+
+==================
+=  Description:  =
+==================
+this program allow the user to play the SpaceWar game, he choose one of the character ship to play with, he can also choose the enemy and how much of it.
+the game takes place at space (no gravity or other external forces orepates) and the goal is to shoot the enemy and hit him ten time if you succeed you earn 1 point if the enemy successfully hurt you 10 times, he earning the point. the user can also activate shield and teleporting ability but it will cost him amount of energy wich is automaticly regenerate every frame. 
+
+=============================
+=  List of submitted files: =
+=============================
+
+README                 This file
+Aggressive.java        extend enemy by adding the shooting ability
+Basher.java		       extend enemy by activating the shield if close enough
+CrazyHuman.java	       extend human by adding the two precent chance of teleporting
+Enemy.java	           extend SpaceShip, contain the pursuing ability
+Floater.java	       extend SpaceShip, no extra ability
+Human.java	           extend SpaceShip, defining how the user control the ship
+Runner.java		       extend SpaceShip, avoiding other ships
+SpaceShips.java        defining the behavoir of a generic ship
+SpaceShipFactory.java  call for the spaceship as requested
+Special.java	       extend aggressive by adding the teleporting ability plus limitles         
+                       amount of energy.
+======================
+=  Special Comments  =
+======================
+
