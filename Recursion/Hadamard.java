@@ -6,12 +6,6 @@ public class Hadamard {
 	gridBuild(grid, 0, 0, false, n, grid.getHeight());
 	
 	return grid;
-	
-
-
-
-
-		
 	}
 	private static void gridBuild(BlackWhiteGrid grid,int topLeftX, int topLeftY,boolean color,int n, int height){
 		if(n==0){
