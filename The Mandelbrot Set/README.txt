@@ -1,9 +1,9 @@
 isaacdel
-204893481
+
 isaac delarosa
 
 ==============================
- == README for Ex5:Mandelbrot set
+ == README for Mandelbrot set
 ==============================
 
 ==================
