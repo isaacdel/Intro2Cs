@@ -1,7 +1,3 @@
-isaacdel
-
-isaac delarosa
-
 ==============================
  == README for Mandelbrot set
 ==============================
@@ -18,8 +14,3 @@ Mandelbrot:constructs the mandelbrot set fractal using RGBImage and RGBColor cla
 =============================
 RGBImage.java containes the RGBImage class.
 Mandelbrot.java contains the Mandelbrot class.
-
-======================
-= Special Comments =
-======================
-discussed with assaf mor.
