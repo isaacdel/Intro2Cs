@@ -1,9 +1,3 @@
-isaacdel
-Isaac Delarosa
-
-
-I discussed the exercise with:
-
 =============================
 =  README for Space Wars Game  =
 =============================
@@ -33,7 +27,3 @@ SpaceShips.java        defining the behavoir of a generic ship
 SpaceShipFactory.java  call for the spaceship as requested
 Special.java	       extend aggressive by adding the teleporting ability plus limitles         
                        amount of energy.
-======================
-=  Special Comments  =
-======================
-
